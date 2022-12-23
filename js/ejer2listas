@@ -1,0 +1,11 @@
+const cumple = new Date(2001, 11, 30) 
+
+const libro={
+    titulo: "Asesinato en el Orient Express",
+    autor: "Agatha Christie",
+    fecha: new Date (1934, 0, 1)
+}
+
+listaejer1 = ["Camilo", 20, true, cumple, libro]
+
+console.log(listaejer1)
