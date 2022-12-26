@@ -1,0 +1,12 @@
+let i = 10;
+let fact = 1;
+
+while(true){
+    fact = fact * i
+    i--
+    if(i==1){
+        break
+    }
+}
+
+console.log(fact)
