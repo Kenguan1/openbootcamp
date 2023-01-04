@@ -1,0 +1,17 @@
+fechahoy = new Date()
+console.log(fechahoy)
+
+fechaNac = new Date(2001,11,30)
+console.log(fechaNac)
+
+let compara= fechahoy > fechaNac
+console.log(compara)
+
+diaNac = fechaNac.getDate()
+console.log(diaNac)
+
+mesNac = fechaNac.getMonth()+1
+console.log(mesNac)
+
+yearNac = fechaNac.getFullYear()
+console.log(yearNac)
