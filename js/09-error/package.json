@@ -1,0 +1,15 @@
+{
+  "name": "sesion-09-errores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "errores-js.js",
+  "scripts": {
+    "start": "node indexejercicio.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
