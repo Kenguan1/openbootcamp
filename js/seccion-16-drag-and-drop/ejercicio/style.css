@@ -1,0 +1,25 @@
+.seccion{
+    background-color: rgb(239, 198, 147);
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo{
+    background-color: rgb(251, 249, 241);
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+
+.parrafo.dragging{
+    opacity: 0.2;
+}
+
+.canasta{
+    transition: 0.2s;
+    margin-left: 3rem;
+}
+
+.canasta.animacion{
+    transform: scale(1.1);
+}
